@@ -1,0 +1,5 @@
+Stock Ticker (e.g. RELIANCE.NS),Method,output,timestamp
+Cipla,Excel,"✅ Excel Formula using Wisesheets:
+=WISEPRICE(""Cipla"", ""Price"")",2025-07-12 21:51:58.458892
+AxisBank,Excel,"✅ Excel Formula using Wisesheets:
+=WISEPRICE(""AxisBank"", ""Price"")",2025-07-12 21:52:50.577333
