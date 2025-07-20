@@ -2,3 +2,4 @@ nsetools
 openpyxl
 gradio
 schedule
+yfinance
